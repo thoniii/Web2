@@ -1,0 +1,46 @@
+.latihan01c {
+    width: 290px;
+    height: 272px;
+    border: 3px solid black;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.kotak1,
+.kotak2,
+.kotak3,
+.kotakB {
+    width: 77px;
+    height: 77px;
+    line-height: 79px;
+    margin: left;
+}
+
+.kotak1 {
+    background-color: lightgray;
+    margin-top: -3px;
+    margin-left: 9px;
+    border: 2px solid black;
+}
+
+.kotakB {
+    background-color: lightgray;
+    margin-left: 104px;
+    border: 2px solid black;
+}
+
+.kotak2 {
+    background-color: lightgray;
+    margin-left: 105px;
+    margin-top: -195px;
+    border: 2px solid black;
+    margin-bottom: -4px;
+}
+
+.kotak3 {
+    background-color: lightgray;
+    margin-left: 200px;
+    border: 2px solid black;
+    position: absolute;
+    bottom: 300px;
+}
